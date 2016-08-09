@@ -9,7 +9,7 @@
 
 You can watch a short demo at my youtube channel https://www.youtube.com/watch?v=x2gCLwbcqI8
 
-The untitled.m must be run from Matlab command window. Then some parameters must be set before the REC button is pressed.
+The untitled.m must be ran from Matlab command window. Then some parameters must be set before the REC button is pressed.
 If you want to make any changes at the GUI itself, the untitled.fig file must be modified accordingly.
 
 If you have any further questions, please leave your comments below my video.
