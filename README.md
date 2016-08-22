@@ -1,4 +1,6 @@
 # Webcam Video Recorder GUI
+<p align="left"> <img src="https://raw.githubusercontent.com/GKalliatakis/Adventures-in-deep-learning/master/logo.png?raw=true" /> </p>
+
 
 ### A Graphical User Interface (GUI) written in Matlab for recording unlimited frames of video in either .avi files or in Matlab's native format .mat from a USB camera.
 ![alt tag](https://raw.githubusercontent.com/GKalliatakis/Video-Recording-using-Matlab-GUIDE-/master/WebCam Video Recorder.png)
