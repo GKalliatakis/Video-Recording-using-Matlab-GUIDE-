@@ -3,7 +3,7 @@
 
 
 ### A Graphical User Interface (GUI) written in Matlab for recording unlimited frames of video in either .avi files or in Matlab's native format .mat from a USB camera.
-![alt tag](https://raw.githubusercontent.com/GKalliatakis/Video-Recording-using-Matlab-GUIDE-/master/WebCam Video Recorder.png)
+![alt tag](https://raw.githubusercontent.com/GKalliatakis/Video-Recording-using-Matlab-GUIDE-/master/WebCam Video Recorder2.png)
 
 
 
